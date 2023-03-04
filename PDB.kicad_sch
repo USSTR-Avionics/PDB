@@ -2818,7 +2818,7 @@
     (property "Reference" "R107" (id 0) (at 123.952 147.5013 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1k" (id 1) (at 123.952 150.0382 0)
+    (property "Value" "2k" (id 1) (at 123.952 150.0382 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (id 2) (at 120.396 148.336 90)
@@ -4366,7 +4366,7 @@
       (reference "R106") (unit 1) (value "10k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
     )
     (path "/09e834ef-d442-457e-b37f-61ac4fbf53b7"
-      (reference "R107") (unit 1) (value "1k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R107") (unit 1) (value "2k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
     )
     (path "/10f93907-8b37-479f-94c5-143e1007e394"
       (reference "R108") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
